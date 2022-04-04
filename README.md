@@ -11,16 +11,11 @@ You can click the Preview link to take a look at your changes.
 <center>
 	<table border="0">
 		<tr>
-			<td colspan="2" align="center">
-				<img width="600px" align="center" src=""/>
-			</td>
-		</tr>
-		<tr>
 			<td align="center">
 				<img width="400px" align="left" src=""/>
 			</td>
 			<td align="center">
-				<img width="490px" align="left" src=""/>
+				<img width="400px" align="left" src=""/>
 			</td>
 		</tr>
 	</table>
