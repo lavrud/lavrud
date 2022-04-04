@@ -8,8 +8,6 @@ lavrud/lavrud is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-# My stats
-
 <center>
 	<table border="0">
 		<tr>
