@@ -8,7 +8,7 @@ lavrud/lavrud is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<center>
+<!-- <center>
 	<table border="0">
 		<tr>
 			<td align="center">
@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 	</table>
 </center>
 
-<br/>
+<br/> -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg" align="center" />
