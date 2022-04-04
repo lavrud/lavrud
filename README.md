@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 		<tr>
 			<td align="center">
 				<img width="400px" align="left" src=""/>
-				[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavrud)](https://github.com/anuraghazra/github-readme-stats)
 			</td>
 			<td align="center">
 				<img width="400px" align="left" src=""/>
