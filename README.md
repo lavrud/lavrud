@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lavrud
-- 👀 I’m interested in development frontend and backend
+- 👀 I'm interested in frontend and backend development for web and apps
 - 🌱 I’m currently learning JS/TS and Nodejs
 - 💞️ I’m looking to collaborate on web in http://blog.dvcode.com.br
 - 📫 Reach me from e-mail durval.visterini@gmail.com
