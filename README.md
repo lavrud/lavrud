@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lavrud
 - 👀 I'm interested in frontend and backend development for web and apps
-- 🌱 I'm currently learning Nodejs using Nextjs
+- 🌱 I'm currently learning Nodejs and Nextjs
 - 💞️ I’m looking to collaborate on web in http://blog.dvcode.com.br
 - 📫 Reach me from e-mail durval.visterini@gmail.com
 <!---
