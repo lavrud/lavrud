@@ -44,7 +44,6 @@ You can click the Preview link to take a look at your changes.
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />&nbsp;
 </div>
             
           
