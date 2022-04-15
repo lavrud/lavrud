@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning Nodejs and Nextjs
 - 💪🏻 I'm currently practicing Laravel - PHP Framework
 - 💞️ I’m looking to collaborate on web in http://blog.dvcode.com.br
-- 💼 this is my interface portfolio https://www.behance.net/durvaljunior
+- 🎨 I'm creating some interfaces https://www.behance.net/durvaljunior
 - 📫 Reach me from e-mail durval.visterini@gmail.com
 <!---
 lavrud/lavrud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
