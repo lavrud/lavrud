@@ -24,41 +24,43 @@ You can click the Preview link to take a look at your changes.
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />&nbsp;
+<!--   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />&nbsp; -->
   * Development: &nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />&nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />&nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />&nbsp;
+  <!-- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />&nbsp;
+  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />&nbsp; 
+  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp; 
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" />&nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />&nbsp;
+  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />&nbsp; -->
   * Languages: &nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />&nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
+  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp; 
   * Framework: &nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />&nbsp;
+  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;
+  <!-- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" />&nbsp;
+  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp; 
+  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" />&nbsp; -->
   * CMS: &nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />&nbsp;
   * Databases: &nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />&nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />&nbsp;
+  <!-- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp;
+  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />&nbsp; 
+  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />&nbsp; -->
   * Services Deployment: &nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />&nbsp;
+  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />&nbsp;
 
