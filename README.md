@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lavrud
 - 👀 I'm interested in frontend and backend development for web and apps
 - 🌱 I'm currently learning Python | Data Science
-- 💪🏻 I'm currently practicing ReactJS & Tailwind-CSS
+- 💪🏻 I'm currently practicing ReactJs & Tailwind-CSS
 - 💞️ I’m looking to collaborate on web in http://blog.dvcode.com.br
 - 🎨 I'm creating some interfaces https://www.behance.net/durvaljunior
 - 📫 Reach me from e-mail durval.visterini@gmail.com
