@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lavrud
 - 👀 I'm interested in frontend and backend development for web and apps
-- 🌱 I'm currently learning .NET Core
+- 🌱 I'm currently learning Python | Data Science
 - 💪🏻 I'm currently practicing Nodejs/Typescript
 - 💞️ I’m looking to collaborate on web in http://blog.dvcode.com.br
 - 🎨 I'm creating some interfaces https://www.behance.net/durvaljunior
