@@ -9,10 +9,10 @@
 lavrud/lavrud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="left">
+<!--<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavrud&layout=compact&langs_count=12&hide_border=enabled&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lavrud&layout=compact&show_icons=true&hide_border=enable&include_all_commits=true&count_private=true&theme=tokyonight"/>
-</div>
+</div>-->
 
   * Design UI/UX: &nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;
