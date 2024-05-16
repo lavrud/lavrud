@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />&nbsp;
   * Environment: &nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />&nbsp;
+  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />&nbsp;
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />&nbsp;
   * Languages: &nbsp;
-  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />&nbsp;
+  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
   <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp; 
