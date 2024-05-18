@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lavrud
 - 👀 I'm interested in frontend and backend development for web and apps
 - 🌱 I'm currently learning Clean Architecture
-- 💪🏻 I'm currently practicing NestJs
+- 💪🏻 I'm currently practicing .NET Core
 - 💞️ I’m looking to collaborate on web in https://dvcode.com.br
 - 🎨 I'm creating some interfaces https://www.behance.net/durvaljunior
 - 📫 Reach me from e-mail durval.visterini@gmail.com
