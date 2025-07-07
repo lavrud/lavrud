@@ -1,11 +1,11 @@
-👋 Olá, eu sou @lavrud
-👀 Tenho interesse em desenvolvimento frontend e backend para web e aplicativos
-🌱 Atualmente estou aprendendo Arquitetura Limpa
-💪🏻 No momento estou praticando .NET Core
-💞️ Procuro colaborar em projetos web em https://dvcode.com.br
-🎨 Estou criando algumas interfaces em https://www.behance.net/durvaljunior
-📫 Você pode me contatar por e-mail em durval.visterini@gmail.com
-🔗 Você pode me encontrar no LinkedIn: https://www.linkedin.com/in/durval-visterini/
+- 👋 Olá, eu sou @lavrud
+- 👀 Tenho interesse em desenvolvimento frontend e backend para web e aplicativos
+- 🌱 Atualmente estou aprendendo Arquitetura Limpa
+- 💪🏻 No momento estou praticando .NET Core
+- 💞️ Procuro colaborar em projetos web em https://dvcode.com.br
+- 🎨 Estou criando algumas interfaces em https://www.behance.net/durvaljunior
+- 📫 Você pode me contatar por e-mail em durval.visterini@gmail.com
+- 🔗 Você pode me encontrar no LinkedIn: https://www.linkedin.com/in/durval-visterini/
 <!---
 lavrud/lavrud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
